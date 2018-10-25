@@ -4,7 +4,7 @@
 
 -----------------------------
 # bg1效果演示
-星星一闪一闪，流星划过  
+星星一闪一闪，流星划过  
 
 ![screenshot](images/1.gif)  
 
@@ -18,7 +18,7 @@
 
 # bg3效果演示 
 
-采用了创建粒子的轻量级JavaScript库——[particles.js](https://github.com/VincentGarreau/particles.js)  
+采用了创建粒子的轻量级JavaScript库——[particles.js](https://github.com/VincentGarreau/particles.js)  
 
 ![screenshot](images/3.gif)  
 
